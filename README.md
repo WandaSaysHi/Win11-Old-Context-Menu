@@ -9,10 +9,10 @@ I just don't like Microsoft forcing changes and breaking backwards compatibility
 I tried to get the old menu back with the old registry edits and apparently they all broke with the latest update.
 So I went ahead and vibe-coded this with Opus 5.5., and now I am only sharing this in case people don't have access to it. It fixed the problem for me, most likely will fix it for you too.
 
-Shout out to Microsoft for being so shitty with your updates that your users have to download sketchy scripts from strangers online just to have your system work like they want it to. Fantastic UX as always!
+Shout out to Microsoft for being so shitty with your updates that your users have to download sketchy scripts from strangers online just to have your system work like they want it to. Fantastic user experience as always!
 
 Feel free to inspect the code, leave comments if anything is suspicious.
-I tested this on my own computer, it survives 
+I tested this on my own computer, it survives rebooting.
 
 ## Install
 
