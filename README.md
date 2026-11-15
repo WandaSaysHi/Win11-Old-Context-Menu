@@ -17,7 +17,7 @@ I tested this on my own computer, it survives rebooting.
 ## Install
 
 1. Download this folder.
-2. Ideally inspect the "ClassicMenu.ps1" file so you know this isn't malicious.
+2. Ideally inspect the **`ClassicMenu.ps1`** file so you know this isn't malicious.
 3. Double-click **`Install.cmd`** and click **Yes** on the admin prompt.
 
 That's it. Your taskbar will flicker once, and the old menu stays after reboots.
